@@ -1,4 +1,0 @@
-Witaj
-druga linia
-DEV
-Modyfikacja w Github
